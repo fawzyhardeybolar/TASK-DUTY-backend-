@@ -1,0 +1,7 @@
+Products Endpoint
+CRUD
+Each product document should have
+1. id
+2. amount
+3. Quantity
+4. name
